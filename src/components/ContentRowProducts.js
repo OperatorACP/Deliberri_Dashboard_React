@@ -44,9 +44,9 @@ function ContentRowProducts(){
 
     let productsInDB = {
         title: 'Productos en DB',
-        color: 'primary', 
+        color: 'danger', 
         quantity: products,
-        icon: 'fas fa-briefcase'
+        icon: 'fas fa-beer'
     }
     
 
@@ -54,7 +54,7 @@ function ContentRowProducts(){
 
     let usersInDb = {
         title:'Usuarios en DB', 
-        color:'success', 
+        color:'danger', 
         quantity: users,
         icon:'fas fa-users'
     }
@@ -63,9 +63,9 @@ function ContentRowProducts(){
 
     let categoriesInDB = {
         title: 'Categorías en DB' ,
-        color: 'warning',
+        color: 'danger',
         quantity: categories,
-        icon: 'fad fa-folder-open'
+        icon: 'fas fa-archive'
     }
 
     let cartProps = [productsInDB, usersInDb, categoriesInDB];

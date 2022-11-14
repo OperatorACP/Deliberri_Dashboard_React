@@ -1,6 +1,6 @@
 import React from 'react';
 
-import foto from '../assets/images/chad1.png';
+import foto from '../assets/images/favicon.ico';
 
 function TopBar(){
     return(
@@ -39,7 +39,7 @@ function TopBar(){
 						{/*<!-- Nav Item - User Information -->*/}
 						<li className="nav-item dropdown no-arrow">
 							<a className="nav-link dropdown-toggle" href="/" id="userDropdown">
-								<span className="mr-2 d-none d-lg-inline text-gray-600 small">Gigachad</span>
+								<span className="mr-2 d-none d-lg-inline text-gray-600 small">Deliberri</span>
 								<img className="img-profile rounded-circle" src={foto} alt="Mickel Jordan - NBA" width="200"/>
 							</a>
 						</li>
