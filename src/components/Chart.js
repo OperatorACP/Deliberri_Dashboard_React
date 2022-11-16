@@ -25,7 +25,7 @@ function Chart (){
                                 <th>ID</th>
                                 <th>NOMBRE</th>
                                 <th>PRECIO</th>
-                                <th>CATEGORIA</th>
+                                <th>CATEGORIA DE INTERES</th>
                             </tr>
                         </thead>
                         <tbody>
