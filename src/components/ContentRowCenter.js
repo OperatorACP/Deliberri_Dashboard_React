@@ -6,13 +6,13 @@ function ContentRowCenter(){
     return (
         <div className="row">
             
-            {/*<!-- Last Movie in DB -->*/}
+            {/*<!-- Last Product in DB -->*/}
             <LastProductInDb />
-            {/*<!-- End content row last movie in Data Base -->*/}
+            {/*<!-- End content row last product in Data Base -->*/}
 
-            {/*<!-- Genres in DB -->*/}
+            {/*<!-- Categories in DB -->*/}
             <CategoriesInDb />
-            {/*<!-- End content row Genres in DB -->*/}
+            {/*<!-- End content row Categories in DB -->*/}
         </div>
     )
 }

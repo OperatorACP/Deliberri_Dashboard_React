@@ -40,7 +40,7 @@ function ContentRowProducts(){
 			})
 	 }, []);
 
-    /* <!-- Movies in DB --> */
+    /* <!--Products in DB --> */
 
     let productsInDB = {
         title: 'Productos en DB',
